@@ -1,0 +1,2855 @@
+[
+	{
+		"common-directories": "e"
+	},
+	{
+		"common-directories": "0"
+	},
+	{
+		"common-directories": "1"
+	},
+	{
+		"common-directories": "2"
+	},
+	{
+		"common-directories": "3"
+	},
+	{
+		"common-directories": "1"
+	},
+	{
+		"common-directories": "10"
+	},
+	{
+		"common-directories": "100"
+	},
+	{
+		"common-directories": "1000"
+	},
+	{
+		"common-directories": "123"
+	},
+	{
+		"common-directories": "2"
+	},
+	{
+		"common-directories": "20"
+	},
+	{
+		"common-directories": "200"
+	},
+	{
+		"common-directories": "2000"
+	},
+	{
+		"common-directories": "2001"
+	},
+	{
+		"common-directories": "2002"
+	},
+	{
+		"common-directories": "2003"
+	},
+	{
+		"common-directories": "2004"
+	},
+	{
+		"common-directories": "2005"
+	},
+	{
+		"common-directories": "3"
+	},
+	{
+		"common-directories": "@"
+	},
+	{
+		"common-directories": "Admin"
+	},
+	{
+		"common-directories": "Administration"
+	},
+	{
+		"common-directories": "crm"
+	},
+	{
+		"common-directories": "CVS"
+	},
+	{
+		"common-directories": "CYBERDOCS"
+	},
+	{
+		"common-directories": "CYBERDOCS25"
+	},
+	{
+		"common-directories": "CYBERDOCS31"
+	},
+	{
+		"common-directories": "INSTALL_admin"
+	},
+	{
+		"common-directories": "Log"
+	},
+	{
+		"common-directories": "Logs"
+	},
+	{
+		"common-directories": "Pages"
+	},
+	{
+		"common-directories": "Servlet"
+	},
+	{
+		"common-directories": "Servlets"
+	},
+	{
+		"common-directories": "SiteServer"
+	},
+	{
+		"common-directories": "Sources"
+	},
+	{
+		"common-directories": "Statistics"
+	},
+	{
+		"common-directories": "Stats"
+	},
+	{
+		"common-directories": "W3SVC"
+	},
+	{
+		"common-directories": "W3SVC1"
+	},
+	{
+		"common-directories": "W3SVC2"
+	},
+	{
+		"common-directories": "W3SVC3"
+	},
+	{
+		"common-directories": "WEB-INF"
+	},
+	{
+		"common-directories": "_admin"
+	},
+	{
+		"common-directories": "_pages"
+	},
+	{
+		"common-directories": "a"
+	},
+	{
+		"common-directories": "aa"
+	},
+	{
+		"common-directories": "aaa"
+	},
+	{
+		"common-directories": "abc"
+	},
+	{
+		"common-directories": "about"
+	},
+	{
+		"common-directories": "academic"
+	},
+	{
+		"common-directories": "access"
+	},
+	{
+		"common-directories": "accessgranted"
+	},
+	{
+		"common-directories": "account"
+	},
+	{
+		"common-directories": "accounting"
+	},
+	{
+		"common-directories": "action"
+	},
+	{
+		"common-directories": "actions"
+	},
+	{
+		"common-directories": "active"
+	},
+	{
+		"common-directories": "adm"
+	},
+	{
+		"common-directories": "admin"
+	},
+	{
+		"common-directories": "admin_"
+	},
+	{
+		"common-directories": "admin_login"
+	},
+	{
+		"common-directories": "admin_logon"
+	},
+	{
+		"common-directories": "administrat"
+	},
+	{
+		"common-directories": "administration"
+	},
+	{
+		"common-directories": "administrator"
+	},
+	{
+		"common-directories": "adminlogin"
+	},
+	{
+		"common-directories": "adminlogon"
+	},
+	{
+		"common-directories": "adminsql"
+	},
+	{
+		"common-directories": "admon"
+	},
+	{
+		"common-directories": "adsl"
+	},
+	{
+		"common-directories": "agent"
+	},
+	{
+		"common-directories": "agents"
+	},
+	{
+		"common-directories": "alias"
+	},
+	{
+		"common-directories": "aliases"
+	},
+	{
+		"common-directories": "all"
+	},
+	{
+		"common-directories": "alpha"
+	},
+	{
+		"common-directories": "analog"
+	},
+	{
+		"common-directories": "analyse"
+	},
+	{
+		"common-directories": "announcements"
+	},
+	{
+		"common-directories": "answer"
+	},
+	{
+		"common-directories": "any"
+	},
+	{
+		"common-directories": "apache"
+	},
+	{
+		"common-directories": "api"
+	},
+	{
+		"common-directories": "app"
+	},
+	{
+		"common-directories": "applet"
+	},
+	{
+		"common-directories": "applets"
+	},
+	{
+		"common-directories": "appliance"
+	},
+	{
+		"common-directories": "application"
+	},
+	{
+		"common-directories": "applications"
+	},
+	{
+		"common-directories": "apply"
+	},
+	{
+		"common-directories": "apps"
+	},
+	{
+		"common-directories": "archive"
+	},
+	{
+		"common-directories": "archives"
+	},
+	{
+		"common-directories": "arrow"
+	},
+	{
+		"common-directories": "asp"
+	},
+	{
+		"common-directories": "aspadmin"
+	},
+	{
+		"common-directories": "assets"
+	},
+	{
+		"common-directories": "attach"
+	},
+	{
+		"common-directories": "attachments"
+	},
+	{
+		"common-directories": "audit"
+	},
+	{
+		"common-directories": "auth"
+	},
+	{
+		"common-directories": "auto"
+	},
+	{
+		"common-directories": "automatic"
+	},
+	{
+		"common-directories": "b"
+	},
+	{
+		"common-directories": "back"
+	},
+	{
+		"common-directories": "back-up"
+	},
+	{
+		"common-directories": "backdoor"
+	},
+	{
+		"common-directories": "backend"
+	},
+	{
+		"common-directories": "backoffice"
+	},
+	{
+		"common-directories": "backup"
+	},
+	{
+		"common-directories": "backups"
+	},
+	{
+		"common-directories": "bak"
+	},
+	{
+		"common-directories": "bak-up"
+	},
+	{
+		"common-directories": "bakup"
+	},
+	{
+		"common-directories": "bank"
+	},
+	{
+		"common-directories": "banks"
+	},
+	{
+		"common-directories": "banner"
+	},
+	{
+		"common-directories": "banners"
+	},
+	{
+		"common-directories": "base"
+	},
+	{
+		"common-directories": "basic"
+	},
+	{
+		"common-directories": "bass"
+	},
+	{
+		"common-directories": "batch"
+	},
+	{
+		"common-directories": "bd"
+	},
+	{
+		"common-directories": "bdata"
+	},
+	{
+		"common-directories": "bea"
+	},
+	{
+		"common-directories": "bean"
+	},
+	{
+		"common-directories": "beans"
+	},
+	{
+		"common-directories": "beta"
+	},
+	{
+		"common-directories": "bill"
+	},
+	{
+		"common-directories": "billing"
+	},
+	{
+		"common-directories": "bin"
+	},
+	{
+		"common-directories": "binaries"
+	},
+	{
+		"common-directories": "biz"
+	},
+	{
+		"common-directories": "blog"
+	},
+	{
+		"common-directories": "blow"
+	},
+	{
+		"common-directories": "board"
+	},
+	{
+		"common-directories": "boards"
+	},
+	{
+		"common-directories": "body"
+	},
+	{
+		"common-directories": "boot"
+	},
+	{
+		"common-directories": "bot"
+	},
+	{
+		"common-directories": "bots"
+	},
+	{
+		"common-directories": "box"
+	},
+	{
+		"common-directories": "boxes"
+	},
+	{
+		"common-directories": "broken"
+	},
+	{
+		"common-directories": "bsd"
+	},
+	{
+		"common-directories": "bug"
+	},
+	{
+		"common-directories": "bugs"
+	},
+	{
+		"common-directories": "build"
+	},
+	{
+		"common-directories": "builder"
+	},
+	{
+		"common-directories": "bulk"
+	},
+	{
+		"common-directories": "business"
+	},
+	{
+		"common-directories": "buttons"
+	},
+	{
+		"common-directories": "c"
+	},
+	{
+		"common-directories": "cache"
+	},
+	{
+		"common-directories": "cachemgr"
+	},
+	{
+		"common-directories": "cad"
+	},
+	{
+		"common-directories": "can"
+	},
+	{
+		"common-directories": "captcha"
+	},
+	{
+		"common-directories": "car"
+	},
+	{
+		"common-directories": "card"
+	},
+	{
+		"common-directories": "cardinal"
+	},
+	{
+		"common-directories": "cards"
+	},
+	{
+		"common-directories": "carpet"
+	},
+	{
+		"common-directories": "cart"
+	},
+	{
+		"common-directories": "cas"
+	},
+	{
+		"common-directories": "cat"
+	},
+	{
+		"common-directories": "catalog"
+	},
+	{
+		"common-directories": "catalogs"
+	},
+	{
+		"common-directories": "catch"
+	},
+	{
+		"common-directories": "cc"
+	},
+	{
+		"common-directories": "ccs"
+	},
+	{
+		"common-directories": "cd"
+	},
+	{
+		"common-directories": "cdrom"
+	},
+	{
+		"common-directories": "cert"
+	},
+	{
+		"common-directories": "certenroll"
+	},
+	{
+		"common-directories": "certificate"
+	},
+	{
+		"common-directories": "certificates"
+	},
+	{
+		"common-directories": "certs"
+	},
+	{
+		"common-directories": "cfdocs"
+	},
+	{
+		"common-directories": "cfg"
+	},
+	{
+		"common-directories": "cgi"
+	},
+	{
+		"common-directories": "cgi-bin"
+	},
+	{
+		"common-directories": "cgi-win"
+	},
+	{
+		"common-directories": "cgibin"
+	},
+	{
+		"common-directories": "chan"
+	},
+	{
+		"common-directories": "change"
+	},
+	{
+		"common-directories": "changepw"
+	},
+	{
+		"common-directories": "channel"
+	},
+	{
+		"common-directories": "chart"
+	},
+	{
+		"common-directories": "chat"
+	},
+	{
+		"common-directories": "class"
+	},
+	{
+		"common-directories": "classes"
+	},
+	{
+		"common-directories": "classic"
+	},
+	{
+		"common-directories": "classified"
+	},
+	{
+		"common-directories": "classifieds"
+	},
+	{
+		"common-directories": "client"
+	},
+	{
+		"common-directories": "clients"
+	},
+	{
+		"common-directories": "cluster"
+	},
+	{
+		"common-directories": "cm"
+	},
+	{
+		"common-directories": "cmd"
+	},
+	{
+		"common-directories": "code"
+	},
+	{
+		"common-directories": "coffee"
+	},
+	{
+		"common-directories": "coke"
+	},
+	{
+		"common-directories": "command"
+	},
+	{
+		"common-directories": "commerce"
+	},
+	{
+		"common-directories": "commercial"
+	},
+	{
+		"common-directories": "common"
+	},
+	{
+		"common-directories": "component"
+	},
+	{
+		"common-directories": "compose"
+	},
+	{
+		"common-directories": "composer"
+	},
+	{
+		"common-directories": "compressed"
+	},
+	{
+		"common-directories": "comunicator"
+	},
+	{
+		"common-directories": "con"
+	},
+	{
+		"common-directories": "config"
+	},
+	{
+		"common-directories": "configs"
+	},
+	{
+		"common-directories": "configuration"
+	},
+	{
+		"common-directories": "configure"
+	},
+	{
+		"common-directories": "connect"
+	},
+	{
+		"common-directories": "connections"
+	},
+	{
+		"common-directories": "console"
+	},
+	{
+		"common-directories": "constant"
+	},
+	{
+		"common-directories": "constants"
+	},
+	{
+		"common-directories": "contact"
+	},
+	{
+		"common-directories": "contacts"
+	},
+	{
+		"common-directories": "content"
+	},
+	{
+		"common-directories": "contents"
+	},
+	{
+		"common-directories": "control"
+	},
+	{
+		"common-directories": "controller"
+	},
+	{
+		"common-directories": "controlpanel"
+	},
+	{
+		"common-directories": "controls"
+	},
+	{
+		"common-directories": "corba"
+	},
+	{
+		"common-directories": "core"
+	},
+	{
+		"common-directories": "corporate"
+	},
+	{
+		"common-directories": "count"
+	},
+	{
+		"common-directories": "counter"
+	},
+	{
+		"common-directories": "cpanel"
+	},
+	{
+		"common-directories": "create"
+	},
+	{
+		"common-directories": "creation"
+	},
+	{
+		"common-directories": "credit"
+	},
+	{
+		"common-directories": "creditcards"
+	},
+	{
+		"common-directories": "cron"
+	},
+	{
+		"common-directories": "crs"
+	},
+	{
+		"common-directories": "css"
+	},
+	{
+		"common-directories": "customer"
+	},
+	{
+		"common-directories": "customers"
+	},
+	{
+		"common-directories": "customize"
+	},
+	{
+		"common-directories": "cv"
+	},
+	{
+		"common-directories": "cvs"
+	},
+	{
+		"common-directories": "d"
+	},
+	{
+		"common-directories": "daemon"
+	},
+	{
+		"common-directories": "dat"
+	},
+	{
+		"common-directories": "data"
+	},
+	{
+		"common-directories": "database"
+	},
+	{
+		"common-directories": "databases"
+	},
+	{
+		"common-directories": "dav"
+	},
+	{
+		"common-directories": "db"
+	},
+	{
+		"common-directories": "dba"
+	},
+	{
+		"common-directories": "dbase"
+	},
+	{
+		"common-directories": "dbm"
+	},
+	{
+		"common-directories": "dbms"
+	},
+	{
+		"common-directories": "debug"
+	},
+	{
+		"common-directories": "default"
+	},
+	{
+		"common-directories": "delete"
+	},
+	{
+		"common-directories": "deletion"
+	},
+	{
+		"common-directories": "demo"
+	},
+	{
+		"common-directories": "demos"
+	},
+	{
+		"common-directories": "deny"
+	},
+	{
+		"common-directories": "deploy"
+	},
+	{
+		"common-directories": "deployment"
+	},
+	{
+		"common-directories": "design"
+	},
+	{
+		"common-directories": "details"
+	},
+	{
+		"common-directories": "dev"
+	},
+	{
+		"common-directories": "dev60cgi"
+	},
+	{
+		"common-directories": "devel"
+	},
+	{
+		"common-directories": "develop"
+	},
+	{
+		"common-directories": "developement"
+	},
+	{
+		"common-directories": "developers"
+	},
+	{
+		"common-directories": "development"
+	},
+	{
+		"common-directories": "device"
+	},
+	{
+		"common-directories": "devices"
+	},
+	{
+		"common-directories": "devs"
+	},
+	{
+		"common-directories": "diag"
+	},
+	{
+		"common-directories": "dial"
+	},
+	{
+		"common-directories": "dig"
+	},
+	{
+		"common-directories": "dir"
+	},
+	{
+		"common-directories": "directory"
+	},
+	{
+		"common-directories": "discovery"
+	},
+	{
+		"common-directories": "disk"
+	},
+	{
+		"common-directories": "dispatch"
+	},
+	{
+		"common-directories": "dispatcher"
+	},
+	{
+		"common-directories": "dms"
+	},
+	{
+		"common-directories": "dns"
+	},
+	{
+		"common-directories": "doc"
+	},
+	{
+		"common-directories": "docs"
+	},
+	{
+		"common-directories": "docs41"
+	},
+	{
+		"common-directories": "docs51"
+	},
+	{
+		"common-directories": "document"
+	},
+	{
+		"common-directories": "documents"
+	},
+	{
+		"common-directories": "down"
+	},
+	{
+		"common-directories": "download"
+	},
+	{
+		"common-directories": "downloads"
+	},
+	{
+		"common-directories": "draft"
+	},
+	{
+		"common-directories": "dragon"
+	},
+	{
+		"common-directories": "dratfs"
+	},
+	{
+		"common-directories": "driver"
+	},
+	{
+		"common-directories": "dump"
+	},
+	{
+		"common-directories": "dumpenv"
+	},
+	{
+		"common-directories": "e"
+	},
+	{
+		"common-directories": "easy"
+	},
+	{
+		"common-directories": "ebriefs"
+	},
+	{
+		"common-directories": "echannel"
+	},
+	{
+		"common-directories": "ecommerce"
+	},
+	{
+		"common-directories": "edit"
+	},
+	{
+		"common-directories": "editor"
+	},
+	{
+		"common-directories": "element"
+	},
+	{
+		"common-directories": "elements"
+	},
+	{
+		"common-directories": "email"
+	},
+	{
+		"common-directories": "employee"
+	},
+	{
+		"common-directories": "employees"
+	},
+	{
+		"common-directories": "en"
+	},
+	{
+		"common-directories": "eng"
+	},
+	{
+		"common-directories": "engine"
+	},
+	{
+		"common-directories": "english"
+	},
+	{
+		"common-directories": "enterprise"
+	},
+	{
+		"common-directories": "env"
+	},
+	{
+		"common-directories": "environ"
+	},
+	{
+		"common-directories": "environment"
+	},
+	{
+		"common-directories": "error"
+	},
+	{
+		"common-directories": "errors"
+	},
+	{
+		"common-directories": "es"
+	},
+	{
+		"common-directories": "esales"
+	},
+	{
+		"common-directories": "esp"
+	},
+	{
+		"common-directories": "established"
+	},
+	{
+		"common-directories": "esupport"
+	},
+	{
+		"common-directories": "etc"
+	},
+	{
+		"common-directories": "event"
+	},
+	{
+		"common-directories": "events"
+	},
+	{
+		"common-directories": "example"
+	},
+	{
+		"common-directories": "examples"
+	},
+	{
+		"common-directories": "exchange"
+	},
+	{
+		"common-directories": "exe"
+	},
+	{
+		"common-directories": "exec"
+	},
+	{
+		"common-directories": "executable"
+	},
+	{
+		"common-directories": "executables"
+	},
+	{
+		"common-directories": "explorer"
+	},
+	{
+		"common-directories": "export"
+	},
+	{
+		"common-directories": "external"
+	},
+	{
+		"common-directories": "extra"
+	},
+	{
+		"common-directories": "Extranet"
+	},
+	{
+		"common-directories": "extranet"
+	},
+	{
+		"common-directories": "fail"
+	},
+	{
+		"common-directories": "failed"
+	},
+	{
+		"common-directories": "fcgi-bin"
+	},
+	{
+		"common-directories": "feedback"
+	},
+	{
+		"common-directories": "field"
+	},
+	{
+		"common-directories": "file"
+	},
+	{
+		"common-directories": "files"
+	},
+	{
+		"common-directories": "filter"
+	},
+	{
+		"common-directories": "firewall"
+	},
+	{
+		"common-directories": "first"
+	},
+	{
+		"common-directories": "flash"
+	},
+	{
+		"common-directories": "folder"
+	},
+	{
+		"common-directories": "foo"
+	},
+	{
+		"common-directories": "forget"
+	},
+	{
+		"common-directories": "forgot"
+	},
+	{
+		"common-directories": "forgotten"
+	},
+	{
+		"common-directories": "form"
+	},
+	{
+		"common-directories": "format"
+	},
+	{
+		"common-directories": "formhandler"
+	},
+	{
+		"common-directories": "formsend"
+	},
+	{
+		"common-directories": "formupdate"
+	},
+	{
+		"common-directories": "fortune"
+	},
+	{
+		"common-directories": "forum"
+	},
+	{
+		"common-directories": "forums"
+	},
+	{
+		"common-directories": "frame"
+	},
+	{
+		"common-directories": "framework"
+	},
+	{
+		"common-directories": "ftp"
+	},
+	{
+		"common-directories": "fun"
+	},
+	{
+		"common-directories": "function"
+	},
+	{
+		"common-directories": "functions"
+	},
+	{
+		"common-directories": "games"
+	},
+	{
+		"common-directories": "gate"
+	},
+	{
+		"common-directories": "generic"
+	},
+	{
+		"common-directories": "gest"
+	},
+	{
+		"common-directories": "get"
+	},
+	{
+		"common-directories": "global"
+	},
+	{
+		"common-directories": "globalnav"
+	},
+	{
+		"common-directories": "globals"
+	},
+	{
+		"common-directories": "gone"
+	},
+	{
+		"common-directories": "gp"
+	},
+	{
+		"common-directories": "gpapp"
+	},
+	{
+		"common-directories": "granted"
+	},
+	{
+		"common-directories": "graphics"
+	},
+	{
+		"common-directories": "group"
+	},
+	{
+		"common-directories": "groups"
+	},
+	{
+		"common-directories": "guest"
+	},
+	{
+		"common-directories": "guestbook"
+	},
+	{
+		"common-directories": "guests"
+	},
+	{
+		"common-directories": "hack"
+	},
+	{
+		"common-directories": "hacker"
+	},
+	{
+		"common-directories": "handler"
+	},
+	{
+		"common-directories": "hanlder"
+	},
+	{
+		"common-directories": "happening"
+	},
+	{
+		"common-directories": "head"
+	},
+	{
+		"common-directories": "header"
+	},
+	{
+		"common-directories": "headers"
+	},
+	{
+		"common-directories": "hello"
+	},
+	{
+		"common-directories": "helloworld"
+	},
+	{
+		"common-directories": "help"
+	},
+	{
+		"common-directories": "hidden"
+	},
+	{
+		"common-directories": "hide"
+	},
+	{
+		"common-directories": "history"
+	},
+	{
+		"common-directories": "hits"
+	},
+	{
+		"common-directories": "home"
+	},
+	{
+		"common-directories": "homepage"
+	},
+	{
+		"common-directories": "homes"
+	},
+	{
+		"common-directories": "homework"
+	},
+	{
+		"common-directories": "host"
+	},
+	{
+		"common-directories": "hosts"
+	},
+	{
+		"common-directories": "htdocs"
+	},
+	{
+		"common-directories": "htm"
+	},
+	{
+		"common-directories": "html"
+	},
+	{
+		"common-directories": "htmls"
+	},
+	{
+		"common-directories": "ibm"
+	},
+	{
+		"common-directories": "icons"
+	},
+	{
+		"common-directories": "idbc"
+	},
+	{
+		"common-directories": "iis"
+	},
+	{
+		"common-directories": "images"
+	},
+	{
+		"common-directories": "img"
+	},
+	{
+		"common-directories": "import"
+	},
+	{
+		"common-directories": "inbox"
+	},
+	{
+		"common-directories": "inc"
+	},
+	{
+		"common-directories": "include"
+	},
+	{
+		"common-directories": "includes"
+	},
+	{
+		"common-directories": "incoming"
+	},
+	{
+		"common-directories": "incs"
+	},
+	{
+		"common-directories": "index"
+	},
+	{
+		"common-directories": "index2"
+	},
+	{
+		"common-directories": "index_adm"
+	},
+	{
+		"common-directories": "index_admin"
+	},
+	{
+		"common-directories": "indexes"
+	},
+	{
+		"common-directories": "info"
+	},
+	{
+		"common-directories": "information"
+	},
+	{
+		"common-directories": "ingres"
+	},
+	{
+		"common-directories": "ingress"
+	},
+	{
+		"common-directories": "ini"
+	},
+	{
+		"common-directories": "init"
+	},
+	{
+		"common-directories": "input"
+	},
+	{
+		"common-directories": "install"
+	},
+	{
+		"common-directories": "installation"
+	},
+	{
+		"common-directories": "interactive"
+	},
+	{
+		"common-directories": "internal"
+	},
+	{
+		"common-directories": "internet"
+	},
+	{
+		"common-directories": "intranet"
+	},
+	{
+		"common-directories": "intro"
+	},
+	{
+		"common-directories": "inventory"
+	},
+	{
+		"common-directories": "invitation"
+	},
+	{
+		"common-directories": "invite"
+	},
+	{
+		"common-directories": "ipp"
+	},
+	{
+		"common-directories": "ips"
+	},
+	{
+		"common-directories": "j"
+	},
+	{
+		"common-directories": "java"
+	},
+	{
+		"common-directories": "java-sys"
+	},
+	{
+		"common-directories": "javascript"
+	},
+	{
+		"common-directories": "jdbc"
+	},
+	{
+		"common-directories": "job"
+	},
+	{
+		"common-directories": "join"
+	},
+	{
+		"common-directories": "jrun"
+	},
+	{
+		"common-directories": "js"
+	},
+	{
+		"common-directories": "jsp"
+	},
+	{
+		"common-directories": "jsps"
+	},
+	{
+		"common-directories": "jsr"
+	},
+	{
+		"common-directories": "keep"
+	},
+	{
+		"common-directories": "kept"
+	},
+	{
+		"common-directories": "kernel"
+	},
+	{
+		"common-directories": "key"
+	},
+	{
+		"common-directories": "lab"
+	},
+	{
+		"common-directories": "labs"
+	},
+	{
+		"common-directories": "launch"
+	},
+	{
+		"common-directories": "launchpage"
+	},
+	{
+		"common-directories": "ldap"
+	},
+	{
+		"common-directories": "left"
+	},
+	{
+		"common-directories": "level"
+	},
+	{
+		"common-directories": "lib"
+	},
+	{
+		"common-directories": "libraries"
+	},
+	{
+		"common-directories": "library"
+	},
+	{
+		"common-directories": "libs"
+	},
+	{
+		"common-directories": "link"
+	},
+	{
+		"common-directories": "links"
+	},
+	{
+		"common-directories": "linux"
+	},
+	{
+		"common-directories": "list"
+	},
+	{
+		"common-directories": "load"
+	},
+	{
+		"common-directories": "loader"
+	},
+	{
+		"common-directories": "lock"
+	},
+	{
+		"common-directories": "lockout"
+	},
+	{
+		"common-directories": "log"
+	},
+	{
+		"common-directories": "logfile"
+	},
+	{
+		"common-directories": "logfiles"
+	},
+	{
+		"common-directories": "logger"
+	},
+	{
+		"common-directories": "logging"
+	},
+	{
+		"common-directories": "login"
+	},
+	{
+		"common-directories": "logo"
+	},
+	{
+		"common-directories": "logon"
+	},
+	{
+		"common-directories": "logout"
+	},
+	{
+		"common-directories": "logs"
+	},
+	{
+		"common-directories": "lost%2Bfound"
+	},
+	{
+		"common-directories": "ls"
+	},
+	{
+		"common-directories": "magic"
+	},
+	{
+		"common-directories": "mail"
+	},
+	{
+		"common-directories": "mailbox"
+	},
+	{
+		"common-directories": "maillist"
+	},
+	{
+		"common-directories": "main"
+	},
+	{
+		"common-directories": "maint"
+	},
+	{
+		"common-directories": "makefile"
+	},
+	{
+		"common-directories": "man"
+	},
+	{
+		"common-directories": "manage"
+	},
+	{
+		"common-directories": "management"
+	},
+	{
+		"common-directories": "manager"
+	},
+	{
+		"common-directories": "manual"
+	},
+	{
+		"common-directories": "map"
+	},
+	{
+		"common-directories": "market"
+	},
+	{
+		"common-directories": "marketing"
+	},
+	{
+		"common-directories": "master"
+	},
+	{
+		"common-directories": "mbo"
+	},
+	{
+		"common-directories": "mdb"
+	},
+	{
+		"common-directories": "me"
+	},
+	{
+		"common-directories": "member"
+	},
+	{
+		"common-directories": "members"
+	},
+	{
+		"common-directories": "memory"
+	},
+	{
+		"common-directories": "menu"
+	},
+	{
+		"common-directories": "message"
+	},
+	{
+		"common-directories": "messages"
+	},
+	{
+		"common-directories": "messaging"
+	},
+	{
+		"common-directories": "meta"
+	},
+	{
+		"common-directories": "metabase"
+	},
+	{
+		"common-directories": "mgr"
+	},
+	{
+		"common-directories": "mine"
+	},
+	{
+		"common-directories": "minimum"
+	},
+	{
+		"common-directories": "mirror"
+	},
+	{
+		"common-directories": "mirrors"
+	},
+	{
+		"common-directories": "misc"
+	},
+	{
+		"common-directories": "mkstats"
+	},
+	{
+		"common-directories": "model"
+	},
+	{
+		"common-directories": "modem"
+	},
+	{
+		"common-directories": "module"
+	},
+	{
+		"common-directories": "modules"
+	},
+	{
+		"common-directories": "monitor"
+	},
+	{
+		"common-directories": "mount"
+	},
+	{
+		"common-directories": "mp3"
+	},
+	{
+		"common-directories": "mp3s"
+	},
+	{
+		"common-directories": "mqseries"
+	},
+	{
+		"common-directories": "mrtg"
+	},
+	{
+		"common-directories": "ms"
+	},
+	{
+		"common-directories": "ms-sql"
+	},
+	{
+		"common-directories": "msql"
+	},
+	{
+		"common-directories": "mssql"
+	},
+	{
+		"common-directories": "music"
+	},
+	{
+		"common-directories": "my"
+	},
+	{
+		"common-directories": "my-sql"
+	},
+	{
+		"common-directories": "mysql"
+	},
+	{
+		"common-directories": "names"
+	},
+	{
+		"common-directories": "navigation"
+	},
+	{
+		"common-directories": "ne"
+	},
+	{
+		"common-directories": "net"
+	},
+	{
+		"common-directories": "netscape"
+	},
+	{
+		"common-directories": "netstat"
+	},
+	{
+		"common-directories": "network"
+	},
+	{
+		"common-directories": "new"
+	},
+	{
+		"common-directories": "news"
+	},
+	{
+		"common-directories": "next"
+	},
+	{
+		"common-directories": "nl"
+	},
+	{
+		"common-directories": "nobody"
+	},
+	{
+		"common-directories": "notes"
+	},
+	{
+		"common-directories": "novell"
+	},
+	{
+		"common-directories": "nul"
+	},
+	{
+		"common-directories": "null"
+	},
+	{
+		"common-directories": "number"
+	},
+	{
+		"common-directories": "object"
+	},
+	{
+		"common-directories": "objects"
+	},
+	{
+		"common-directories": "odbc"
+	},
+	{
+		"common-directories": "of"
+	},
+	{
+		"common-directories": "off"
+	},
+	{
+		"common-directories": "office"
+	},
+	{
+		"common-directories": "ogl"
+	},
+	{
+		"common-directories": "old"
+	},
+	{
+		"common-directories": "oldie"
+	},
+	{
+		"common-directories": "on"
+	},
+	{
+		"common-directories": "online"
+	},
+	{
+		"common-directories": "open"
+	},
+	{
+		"common-directories": "openapp"
+	},
+	{
+		"common-directories": "openfile"
+	},
+	{
+		"common-directories": "operator"
+	},
+	{
+		"common-directories": "oracle"
+	},
+	{
+		"common-directories": "oradata"
+	},
+	{
+		"common-directories": "order"
+	},
+	{
+		"common-directories": "orders"
+	},
+	{
+		"common-directories": "outgoing"
+	},
+	{
+		"common-directories": "output"
+	},
+	{
+		"common-directories": "pad"
+	},
+	{
+		"common-directories": "page"
+	},
+	{
+		"common-directories": "pages"
+	},
+	{
+		"common-directories": "pam"
+	},
+	{
+		"common-directories": "panel"
+	},
+	{
+		"common-directories": "paper"
+	},
+	{
+		"common-directories": "papers"
+	},
+	{
+		"common-directories": "pass"
+	},
+	{
+		"common-directories": "passes"
+	},
+	{
+		"common-directories": "passw"
+	},
+	{
+		"common-directories": "passwd"
+	},
+	{
+		"common-directories": "passwor"
+	},
+	{
+		"common-directories": "password"
+	},
+	{
+		"common-directories": "passwords"
+	},
+	{
+		"common-directories": "path"
+	},
+	{
+		"common-directories": "pdf"
+	},
+	{
+		"common-directories": "perl"
+	},
+	{
+		"common-directories": "perl5"
+	},
+	{
+		"common-directories": "personal"
+	},
+	{
+		"common-directories": "personals"
+	},
+	{
+		"common-directories": "pgsql"
+	},
+	{
+		"common-directories": "phone"
+	},
+	{
+		"common-directories": "php"
+	},
+	{
+		"common-directories": "phpMyAdmin"
+	},
+	{
+		"common-directories": "phpmyadmin"
+	},
+	{
+		"common-directories": "pics"
+	},
+	{
+		"common-directories": "ping"
+	},
+	{
+		"common-directories": "pix"
+	},
+	{
+		"common-directories": "pl"
+	},
+	{
+		"common-directories": "pls"
+	},
+	{
+		"common-directories": "plx"
+	},
+	{
+		"common-directories": "pol"
+	},
+	{
+		"common-directories": "policy"
+	},
+	{
+		"common-directories": "poll"
+	},
+	{
+		"common-directories": "pop"
+	},
+	{
+		"common-directories": "portal"
+	},
+	{
+		"common-directories": "portlet"
+	},
+	{
+		"common-directories": "portlets"
+	},
+	{
+		"common-directories": "post"
+	},
+	{
+		"common-directories": "postgres"
+	},
+	{
+		"common-directories": "power"
+	},
+	{
+		"common-directories": "press"
+	},
+	{
+		"common-directories": "preview"
+	},
+	{
+		"common-directories": "print"
+	},
+	{
+		"common-directories": "printenv"
+	},
+	{
+		"common-directories": "priv"
+	},
+	{
+		"common-directories": "private"
+	},
+	{
+		"common-directories": "privs"
+	},
+	{
+		"common-directories": "process"
+	},
+	{
+		"common-directories": "processform"
+	},
+	{
+		"common-directories": "prod"
+	},
+	{
+		"common-directories": "production"
+	},
+	{
+		"common-directories": "products"
+	},
+	{
+		"common-directories": "professor"
+	},
+	{
+		"common-directories": "profile"
+	},
+	{
+		"common-directories": "program"
+	},
+	{
+		"common-directories": "project"
+	},
+	{
+		"common-directories": "proof"
+	},
+	{
+		"common-directories": "properties"
+	},
+	{
+		"common-directories": "protect"
+	},
+	{
+		"common-directories": "protected"
+	},
+	{
+		"common-directories": "proxy"
+	},
+	{
+		"common-directories": "ps"
+	},
+	{
+		"common-directories": "pub"
+	},
+	{
+		"common-directories": "public"
+	},
+	{
+		"common-directories": "publish"
+	},
+	{
+		"common-directories": "publisher"
+	},
+	{
+		"common-directories": "purchase"
+	},
+	{
+		"common-directories": "purchases"
+	},
+	{
+		"common-directories": "put"
+	},
+	{
+		"common-directories": "pw"
+	},
+	{
+		"common-directories": "pwd"
+	},
+	{
+		"common-directories": "python"
+	},
+	{
+		"common-directories": "query"
+	},
+	{
+		"common-directories": "queries"
+	},
+	{
+		"common-directories": "queue"
+	},
+	{
+		"common-directories": "quote"
+	},
+	{
+		"common-directories": "ramon"
+	},
+	{
+		"common-directories": "random"
+	},
+	{
+		"common-directories": "rank"
+	},
+	{
+		"common-directories": "rcs"
+	},
+	{
+		"common-directories": "readme"
+	},
+	{
+		"common-directories": "redir"
+	},
+	{
+		"common-directories": "redirect"
+	},
+	{
+		"common-directories": "reference"
+	},
+	{
+		"common-directories": "references"
+	},
+	{
+		"common-directories": "reg"
+	},
+	{
+		"common-directories": "reginternal"
+	},
+	{
+		"common-directories": "regional"
+	},
+	{
+		"common-directories": "register"
+	},
+	{
+		"common-directories": "registered"
+	},
+	{
+		"common-directories": "release"
+	},
+	{
+		"common-directories": "remind"
+	},
+	{
+		"common-directories": "reminder"
+	},
+	{
+		"common-directories": "remote"
+	},
+	{
+		"common-directories": "removed"
+	},
+	{
+		"common-directories": "report"
+	},
+	{
+		"common-directories": "reports"
+	},
+	{
+		"common-directories": "requisite"
+	},
+	{
+		"common-directories": "research"
+	},
+	{
+		"common-directories": "reseller"
+	},
+	{
+		"common-directories": "resource"
+	},
+	{
+		"common-directories": "resources"
+	},
+	{
+		"common-directories": "responder"
+	},
+	{
+		"common-directories": "restricted"
+	},
+	{
+		"common-directories": "retail"
+	},
+	{
+		"common-directories": "right"
+	},
+	{
+		"common-directories": "robot"
+	},
+	{
+		"common-directories": "robotics"
+	},
+	{
+		"common-directories": "root"
+	},
+	{
+		"common-directories": "route"
+	},
+	{
+		"common-directories": "router"
+	},
+	{
+		"common-directories": "rpc"
+	},
+	{
+		"common-directories": "rss"
+	},
+	{
+		"common-directories": "rules"
+	},
+	{
+		"common-directories": "run"
+	},
+	{
+		"common-directories": "sales"
+	},
+	{
+		"common-directories": "sample"
+	},
+	{
+		"common-directories": "samples"
+	},
+	{
+		"common-directories": "save"
+	},
+	{
+		"common-directories": "saved"
+	},
+	{
+		"common-directories": "schema"
+	},
+	{
+		"common-directories": "scr"
+	},
+	{
+		"common-directories": "scratc"
+	},
+	{
+		"common-directories": "script"
+	},
+	{
+		"common-directories": "scripts"
+	},
+	{
+		"common-directories": "sdk"
+	},
+	{
+		"common-directories": "search"
+	},
+	{
+		"common-directories": "secret"
+	},
+	{
+		"common-directories": "secrets"
+	},
+	{
+		"common-directories": "section"
+	},
+	{
+		"common-directories": "sections"
+	},
+	{
+		"common-directories": "secure"
+	},
+	{
+		"common-directories": "secured"
+	},
+	{
+		"common-directories": "security"
+	},
+	{
+		"common-directories": "select"
+	},
+	{
+		"common-directories": "sell"
+	},
+	{
+		"common-directories": "send"
+	},
+	{
+		"common-directories": "sendmail"
+	},
+	{
+		"common-directories": "sensepost"
+	},
+	{
+		"common-directories": "sensor"
+	},
+	{
+		"common-directories": "sent"
+	},
+	{
+		"common-directories": "server"
+	},
+	{
+		"common-directories": "server_stats"
+	},
+	{
+		"common-directories": "servers"
+	},
+	{
+		"common-directories": "service"
+	},
+	{
+		"common-directories": "services"
+	},
+	{
+		"common-directories": "servlet"
+	},
+	{
+		"common-directories": "servlets"
+	},
+	{
+		"common-directories": "session"
+	},
+	{
+		"common-directories": "sessions"
+	},
+	{
+		"common-directories": "set"
+	},
+	{
+		"common-directories": "setting"
+	},
+	{
+		"common-directories": "settings"
+	},
+	{
+		"common-directories": "setup"
+	},
+	{
+		"common-directories": "share"
+	},
+	{
+		"common-directories": "shared"
+	},
+	{
+		"common-directories": "shell"
+	},
+	{
+		"common-directories": "shit"
+	},
+	{
+		"common-directories": "shop"
+	},
+	{
+		"common-directories": "shopper"
+	},
+	{
+		"common-directories": "show"
+	},
+	{
+		"common-directories": "showcode"
+	},
+	{
+		"common-directories": "shtml"
+	},
+	{
+		"common-directories": "sign"
+	},
+	{
+		"common-directories": "signature"
+	},
+	{
+		"common-directories": "signin"
+	},
+	{
+		"common-directories": "simple"
+	},
+	{
+		"common-directories": "single"
+	},
+	{
+		"common-directories": "site"
+	},
+	{
+		"common-directories": "sitemap"
+	},
+	{
+		"common-directories": "sites"
+	},
+	{
+		"common-directories": "small"
+	},
+	{
+		"common-directories": "snoop"
+	},
+	{
+		"common-directories": "soap"
+	},
+	{
+		"common-directories": "soapdocs"
+	},
+	{
+		"common-directories": "software"
+	},
+	{
+		"common-directories": "solaris"
+	},
+	{
+		"common-directories": "solutions"
+	},
+	{
+		"common-directories": "somebody"
+	},
+	{
+		"common-directories": "source"
+	},
+	{
+		"common-directories": "sources"
+	},
+	{
+		"common-directories": "spain"
+	},
+	{
+		"common-directories": "spanish"
+	},
+	{
+		"common-directories": "sql"
+	},
+	{
+		"common-directories": "sqladmin"
+	},
+	{
+		"common-directories": "src"
+	},
+	{
+		"common-directories": "srchad"
+	},
+	{
+		"common-directories": "srv"
+	},
+	{
+		"common-directories": "ssi"
+	},
+	{
+		"common-directories": "ssl"
+	},
+	{
+		"common-directories": "staff"
+	},
+	{
+		"common-directories": "start"
+	},
+	{
+		"common-directories": "startpage"
+	},
+	{
+		"common-directories": "stat"
+	},
+	{
+		"common-directories": "statistic"
+	},
+	{
+		"common-directories": "statistics"
+	},
+	{
+		"common-directories": "stats"
+	},
+	{
+		"common-directories": "status"
+	},
+	{
+		"common-directories": "stop"
+	},
+	{
+		"common-directories": "store"
+	},
+	{
+		"common-directories": "story"
+	},
+	{
+		"common-directories": "string"
+	},
+	{
+		"common-directories": "student"
+	},
+	{
+		"common-directories": "stuff"
+	},
+	{
+		"common-directories": "style"
+	},
+	{
+		"common-directories": "stylesheet"
+	},
+	{
+		"common-directories": "stylesheets"
+	},
+	{
+		"common-directories": "submit"
+	},
+	{
+		"common-directories": "submitter"
+	},
+	{
+		"common-directories": "sun"
+	},
+	{
+		"common-directories": "super"
+	},
+	{
+		"common-directories": "support"
+	},
+	{
+		"common-directories": "supported"
+	},
+	{
+		"common-directories": "survey"
+	},
+	{
+		"common-directories": "svc"
+	},
+	{
+		"common-directories": "svn"
+	},
+	{
+		"common-directories": "svr"
+	},
+	{
+		"common-directories": "sw"
+	},
+	{
+		"common-directories": "sys"
+	},
+	{
+		"common-directories": "sysadmin"
+	},
+	{
+		"common-directories": "system"
+	},
+	{
+		"common-directories": "table"
+	},
+	{
+		"common-directories": "tag"
+	},
+	{
+		"common-directories": "tape"
+	},
+	{
+		"common-directories": "tar"
+	},
+	{
+		"common-directories": "target"
+	},
+	{
+		"common-directories": "tech"
+	},
+	{
+		"common-directories": "temp"
+	},
+	{
+		"common-directories": "template"
+	},
+	{
+		"common-directories": "templates"
+	},
+	{
+		"common-directories": "temporal"
+	},
+	{
+		"common-directories": "temps"
+	},
+	{
+		"common-directories": "terminal"
+	},
+	{
+		"common-directories": "test"
+	},
+	{
+		"common-directories": "testing"
+	},
+	{
+		"common-directories": "tests"
+	},
+	{
+		"common-directories": "text"
+	},
+	{
+		"common-directories": "texts"
+	},
+	{
+		"common-directories": "ticket"
+	},
+	{
+		"common-directories": "tmp"
+	},
+	{
+		"common-directories": "today"
+	},
+	{
+		"common-directories": "tool"
+	},
+	{
+		"common-directories": "toolbar"
+	},
+	{
+		"common-directories": "tools"
+	},
+	{
+		"common-directories": "top"
+	},
+	{
+		"common-directories": "topics"
+	},
+	{
+		"common-directories": "tour"
+	},
+	{
+		"common-directories": "tpv"
+	},
+	{
+		"common-directories": "trace"
+	},
+	{
+		"common-directories": "traffic"
+	},
+	{
+		"common-directories": "transaction"
+	},
+	{
+		"common-directories": "transactions"
+	},
+	{
+		"common-directories": "transfer"
+	},
+	{
+		"common-directories": "transport"
+	},
+	{
+		"common-directories": "trap"
+	},
+	{
+		"common-directories": "trash"
+	},
+	{
+		"common-directories": "tree"
+	},
+	{
+		"common-directories": "trees"
+	},
+	{
+		"common-directories": "tutorial"
+	},
+	{
+		"common-directories": "uddi"
+	},
+	{
+		"common-directories": "uninstall"
+	},
+	{
+		"common-directories": "unix"
+	},
+	{
+		"common-directories": "up"
+	},
+	{
+		"common-directories": "update"
+	},
+	{
+		"common-directories": "updates"
+	},
+	{
+		"common-directories": "upload"
+	},
+	{
+		"common-directories": "uploader"
+	},
+	{
+		"common-directories": "uploads"
+	},
+	{
+		"common-directories": "usage"
+	},
+	{
+		"common-directories": "user"
+	},
+	{
+		"common-directories": "users"
+	},
+	{
+		"common-directories": "usr"
+	},
+	{
+		"common-directories": "ustats"
+	},
+	{
+		"common-directories": "util"
+	},
+	{
+		"common-directories": "utilities"
+	},
+	{
+		"common-directories": "utility"
+	},
+	{
+		"common-directories": "utils"
+	},
+	{
+		"common-directories": "validation"
+	},
+	{
+		"common-directories": "validatior"
+	},
+	{
+		"common-directories": "vap"
+	},
+	{
+		"common-directories": "var"
+	},
+	{
+		"common-directories": "vb"
+	},
+	{
+		"common-directories": "vbs"
+	},
+	{
+		"common-directories": "vbscript"
+	},
+	{
+		"common-directories": "vbscripts"
+	},
+	{
+		"common-directories": "vfs"
+	},
+	{
+		"common-directories": "view"
+	},
+	{
+		"common-directories": "viewer"
+	},
+	{
+		"common-directories": "views"
+	},
+	{
+		"common-directories": "virtual"
+	},
+	{
+		"common-directories": "visitor"
+	},
+	{
+		"common-directories": "vpn"
+	},
+	{
+		"common-directories": "w"
+	},
+	{
+		"common-directories": "w3"
+	},
+	{
+		"common-directories": "w3c"
+	},
+	{
+		"common-directories": "warez"
+	},
+	{
+		"common-directories": "wdav"
+	},
+	{
+		"common-directories": "web"
+	},
+	{
+		"common-directories": "webaccess"
+	},
+	{
+		"common-directories": "webadmin"
+	},
+	{
+		"common-directories": "webapp"
+	},
+	{
+		"common-directories": "webboard"
+	},
+	{
+		"common-directories": "webcart"
+	},
+	{
+		"common-directories": "webdata"
+	},
+	{
+		"common-directories": "webdav"
+	},
+	{
+		"common-directories": "webdist"
+	},
+	{
+		"common-directories": "webhits"
+	},
+	{
+		"common-directories": "weblog"
+	},
+	{
+		"common-directories": "weblogic"
+	},
+	{
+		"common-directories": "weblogs"
+	},
+	{
+		"common-directories": "webmail"
+	},
+	{
+		"common-directories": "webmaster"
+	},
+	{
+		"common-directories": "webservice"
+	},
+	{
+		"common-directories": "webservices"
+	},
+	{
+		"common-directories": "websearch"
+	},
+	{
+		"common-directories": "website"
+	},
+	{
+		"common-directories": "webstat"
+	},
+	{
+		"common-directories": "webstats"
+	},
+	{
+		"common-directories": "webvpn"
+	},
+	{
+		"common-directories": "welcome"
+	},
+	{
+		"common-directories": "wellcome"
+	},
+	{
+		"common-directories": "whatever"
+	},
+	{
+		"common-directories": "whatnot"
+	},
+	{
+		"common-directories": "whois"
+	},
+	{
+		"common-directories": "will"
+	},
+	{
+		"common-directories": "win"
+	},
+	{
+		"common-directories": "windows"
+	},
+	{
+		"common-directories": "word"
+	},
+	{
+		"common-directories": "work"
+	},
+	{
+		"common-directories": "workplace"
+	},
+	{
+		"common-directories": "workshop"
+	},
+	{
+		"common-directories": "ws"
+	},
+	{
+		"common-directories": "wstats"
+	},
+	{
+		"common-directories": "wusage"
+	},
+	{
+		"common-directories": "www"
+	},
+	{
+		"common-directories": "wwwboard"
+	},
+	{
+		"common-directories": "wwwjoin"
+	},
+	{
+		"common-directories": "wwwlog"
+	},
+	{
+		"common-directories": "wwwstats"
+	},
+	{
+		"common-directories": "xcache"
+	},
+	{
+		"common-directories": "xfer"
+	},
+	{
+		"common-directories": "xml"
+	},
+	{
+		"common-directories": "xmlrpc"
+	},
+	{
+		"common-directories": "xsl"
+	},
+	{
+		"common-directories": "xsql"
+	},
+	{
+		"common-directories": "xyz"
+	},
+	{
+		"common-directories": "zap"
+	},
+	{
+		"common-directories": "zip"
+	},
+	{
+		"common-directories": "zipfiles"
+	},
+	{
+		"common-directories": "zips"
+	},
+	{
+		"common-directories": ""
+	}
+]
